@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElectronicMouse
 - 👀 I’m interested in coding, anime, math and computer games
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, typescript and discord.js
 - 📫 How to reach me: ChattyTurtle#6615 (discord)
 
 <!---
